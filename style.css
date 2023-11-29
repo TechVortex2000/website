@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.sidebar{
+
+
+    background-color: rgb(9, 9, 240);
+    width: 424px;
+    height: 100vh;
+}
+.sidebar nav{
+    padding: 45px;
+}
+.sidebar nav li{
+    list-style: none;
+    font-size: 30px;
+    padding: 33%;
+}
+.sidebar nav li a{
+    text-decoration: none;
+    color: white;
+}
+.main{
+    background-color: white;
+    width: 80%;
+    margin-left: 5%;
+}
+
+.container{
+    display: flex;
+}
+.infoContainer{
+    background-color: pink;
+    height: 78vh;
+    width: 80vw;
+    margin: 144px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.devinfo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.hello{
+    font-size: 70px;
+    font-weight: bold;
+}
+.name{
+    font-size: 90px;
+    font-weight: bold;
+}
+.about{
+    font-size: 50px;
+}
+.button{
+    margin-top: 50px;
+
+}
+.button button{
+    padding: 20px 24px;;
+    border-radius: 22px;
+    color: bisque;
+    background-color: dodgerblue;
+    font-weight: bold;
+    font-size: 21px;
+    margin: 0 3 px;
+}
+.devpic{
+    height: 78vh;
+}
