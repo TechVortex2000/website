@@ -39,6 +39,19 @@
     margin: 144px auto;
     display: flex;
     justify-content: space-around;
+    border-radius: 30px
+}
+.ProjectContainer{
+    background-color: pink;
+    height: 78vh;
+    width: 80vw;
+    margin: 144px auto;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 30px
+}
+.image{
+    margin: 8px;
 }
 .devinfo{
     display: flex;
@@ -60,6 +73,9 @@
 .button{
     margin-top: 50px;
 
+}
+.description{
+    font-size: 20px;
 }
 .button button{
     padding: 20px 24px;;
