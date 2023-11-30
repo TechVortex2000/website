@@ -89,3 +89,22 @@
 .devpic{
     height: 78vh;
 }
+.formContainer{
+    background-color: pink;
+    height: 78vh;
+    width: 80vw;
+    margin: 144px auto;
+    border-radius: 30px
+
+}
+.FormItems{
+    margin: 20px;
+}
+.details{
+    margin: 20px;
+}
+.intro{
+    margin: 10px;
+    font-family: Arial, sans-serif;
+    font-size: small;
+}
